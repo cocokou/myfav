@@ -1,0 +1,26 @@
+ul {
+    list-style: none;
+    padding-left: 10px;
+}
+.container-fluid {
+    background: #33bebe;
+    color: #fff;
+}
+main {
+    margin: 20px auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+h3 {
+    margin: 12px;
+    font-weight: 500;
+}
+section {
+    margin: 5px;
+    padding: 5px;
+    border: 2px solid #33bebe;
+
+}
+ span {
+    padding: 5px;
+}
